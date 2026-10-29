@@ -6,6 +6,10 @@ The schematic was redrawn from a hand sketch of the breadboard layout. Named net
 
 This is the first circuit diagram that I drew, I drew it on work experience roughly between Jan 2022 - Mar 2022
 
+## Images
+
+![Circuit Diagram](./Images/Circuit%20Diagram.png)
+
 ## Files
 
 | File                                                                 | What it is                                                                                                               |
