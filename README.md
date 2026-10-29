@@ -4,7 +4,7 @@ Schematic for a small music box with four lit push buttons, a proximity sensor, 
 
 The schematic was redrawn from a hand sketch of the breadboard layout. Named net tags (like `BTN1` or `SD_SCK`) stand in for long wires. Every tag connects to all other tags with the same name.
 
-** This is the first circuit diagram ** that I drew, I drew it on work experience roughly between Jan 2022 - Mar 2022
+This is the first circuit diagram that I drew, I drew it on work experience roughly between Jan 2022 - Mar 2022
 
 ## Files
 
